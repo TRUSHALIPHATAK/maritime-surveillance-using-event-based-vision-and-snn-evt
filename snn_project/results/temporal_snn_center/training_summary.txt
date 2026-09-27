@@ -1,0 +1,23 @@
+Temporal SNN Center Detector
+============================================================
+
+Device: cuda
+GPU: NVIDIA GeForce GTX 1650
+
+045 voxel shape: (50, 2, 128, 128)
+045 heatmap shape: (50, 128, 128)
+047 voxel shape: (50, 2, 128, 128)
+047 heatmap shape: (50, 128, 128)
+
+ship_045
+----------------------------------------
+Initial loss: 0.12071385
+Final loss: 0.01206944
+Minimum loss: 0.00900143
+
+ship_047
+----------------------------------------
+Initial loss: 0.00462216
+Final loss: 0.00335126
+Minimum loss: 0.00330765
+

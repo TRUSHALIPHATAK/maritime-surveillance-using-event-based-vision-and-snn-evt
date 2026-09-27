@@ -1,0 +1,9 @@
+SNN Ship Detector Evaluation
+============================
+
+Test samples: 20
+Mean IoU: 0.0000
+Median IoU: 0.0000
+IoU >= 0.25: 0.00%
+IoU >= 0.50: 0.00%
+IoU >= 0.75: 0.00%

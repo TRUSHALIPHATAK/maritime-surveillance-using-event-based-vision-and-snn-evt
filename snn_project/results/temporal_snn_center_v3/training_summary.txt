@@ -1,0 +1,12 @@
+Temporal SNN Center Detector V3
+================================
+
+Device: cuda
+GPU: NVIDIA GeForce GTX 1650
+
+Epochs: 60
+Learning rate: 0.0005
+Best loss: 0.114321
+Final loss: 0.114321
+
+Prediction shape: (2, 50, 128, 128)

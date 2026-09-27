@@ -1,0 +1,64 @@
+Temporal SNN Center Detector V2
+================================
+
+Device: cuda
+GPU: NVIDIA GeForce GTX 1650
+Input shape: (2, 50, 2, 128, 128)
+Target shape: (2, 50, 128, 128)
+Epochs: 50
+Learning rate: 0.001
+Beta: 0.9
+Target weight: 15.0
+Best loss: 0.16862951
+
+Training history:
+Epoch 1: 0.30978432
+Epoch 2: 0.29339072
+Epoch 3: 0.28499278
+Epoch 4: 0.27730730
+Epoch 5: 0.27320471
+Epoch 6: 0.27033049
+Epoch 7: 0.26917645
+Epoch 8: 0.26616070
+Epoch 9: 0.26351711
+Epoch 10: 0.26095706
+Epoch 11: 0.25829330
+Epoch 12: 0.25473547
+Epoch 13: 0.25128540
+Epoch 14: 0.24797726
+Epoch 15: 0.24638265
+Epoch 16: 0.24320091
+Epoch 17: 0.24321739
+Epoch 18: 0.24257636
+Epoch 19: 0.23809521
+Epoch 20: 0.23405270
+Epoch 21: 0.23035842
+Epoch 22: 0.22513929
+Epoch 23: 0.22449903
+Epoch 24: 0.21935764
+Epoch 25: 0.21619937
+Epoch 26: 0.21389964
+Epoch 27: 0.21249649
+Epoch 28: 0.21067847
+Epoch 29: 0.21044521
+Epoch 30: 0.20953418
+Epoch 31: 0.20556267
+Epoch 32: 0.20570223
+Epoch 33: 0.20169288
+Epoch 34: 0.19863708
+Epoch 35: 0.19660637
+Epoch 36: 0.19284502
+Epoch 37: 0.19029541
+Epoch 38: 0.18882896
+Epoch 39: 0.18977475
+Epoch 40: 0.18505180
+Epoch 41: 0.18386939
+Epoch 42: 0.18380740
+Epoch 43: 0.18085967
+Epoch 44: 0.17903876
+Epoch 45: 0.17783073
+Epoch 46: 0.17532212
+Epoch 47: 0.16963033
+Epoch 48: 0.16970770
+Epoch 49: 0.17242824
+Epoch 50: 0.16862951
