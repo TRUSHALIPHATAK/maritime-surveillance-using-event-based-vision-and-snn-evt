@@ -1,0 +1,2 @@
+sequence,TP,FP,FN,precision,recall,F1,mean_center_error_px,median_center_error_px,max_center_error_px,within_2px_percent,within_4px_percent,within_6px_percent,coverage,ID_switches
+ship_047,9,0,1,1.0,0.9,0.9473684210526316,2.218819761356947,1.9218798329188491,3.9813949560584816,55.55555555555556,100.0,100.0,0.9,0

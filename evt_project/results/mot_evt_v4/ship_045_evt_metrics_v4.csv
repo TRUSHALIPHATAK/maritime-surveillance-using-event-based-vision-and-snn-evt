@@ -1,0 +1,2 @@
+sequence,TP,FP,FN,precision,recall,F1,mean_center_error,median_center_error,max_center_error,within_2px_percent,within_4px_percent,within_6px_percent,coverage
+045,29,1,0,0.9666666666666667,1.0,0.983050847457627,2.0452123340883857,1.728434552003767,5.320993202312354,62.06896551724138,93.10344827586206,100.0,1.0

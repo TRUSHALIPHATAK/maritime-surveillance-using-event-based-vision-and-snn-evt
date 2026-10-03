@@ -51,3 +51,10 @@ data_samples/output/
 *.log
 *.tmp
 *.bak
+
+# ============================================================
+# REQUIRED VOXEL GRIDS
+# ============================================================
+
+!ship_045_event_dataset/3_voxel_grid/ship_045_voxel_grid.npy
+!snn_project/ship_047_event_dataset/3_voxel_grid/ship_047_voxel_grid.npy
